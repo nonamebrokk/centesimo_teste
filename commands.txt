@@ -1,0 +1,12 @@
+pwd
+cd
+ls
+cat
+cp
+mv
+mkdir
+sudo
+git
+apt
+apt-get
+pip
